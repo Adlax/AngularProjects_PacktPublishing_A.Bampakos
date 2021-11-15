@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 It uses the openweathermap.org API. This weather app is PWA style (with angular service worker). It is also deployed on firebase on Hosting URL: https://weather-app-bf9dc.web.app
+It is also possible to install it as native/desktop app by clicking the install button in the URL.
 
 ## Development server
 
