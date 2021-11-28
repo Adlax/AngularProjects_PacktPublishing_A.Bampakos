@@ -1,6 +1,7 @@
 # GithubPortfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+It s a Github Portfolio app and uses Universal to be rendered as a Server Side Rendered app (SSR). It uses a First Contentfull Paint (FCP) and an search engine optimization (SEO). Events are seenable with preboot lib. 
 
 ## Development server
 
