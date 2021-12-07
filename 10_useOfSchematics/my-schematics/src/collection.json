@@ -1,0 +1,18 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "my-schematics": {
+      "description": "A blank schematic.",
+      "factory": "./my-schematics/index#mySchematics"
+    },
+    "tailwind-container": {
+      "description": "Generate a Tailwind CSS frameworked container component.",
+      "factory": "./tailwind-container/index#tailwindContainer",
+      "schema": "./tailwind-container/schema.json"
+    },
+    "crud-service": {
+      "description": "Generate a CRUD HTTP Service.",
+      "factory": "./crud-service/index#crudService"
+    }
+  }
+}
